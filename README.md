@@ -2,7 +2,9 @@
 We here at the Boolean Believers (a poorly structured alien pun) would like to welcome you to our project! Our names and contacts are below:
 
 Gabe: gah65@pitt.edu
+
 Jeffrey: jeh281@pitt.edu
+
 Annie: 
 
 ### Description and Links to the datasets used:
